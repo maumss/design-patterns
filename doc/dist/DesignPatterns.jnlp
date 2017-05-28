@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="DesignPatterns.jnlp">
+  <information>
+    <title>DesignPatterns</title>
+    <vendor>mauricio.soares</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="DesignPatterns.jar" size="725510" download="eager" />
+  </resources>
+<security>
+  <all-permissions/>
+</security>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="DesignPatterns" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="br.com.yahoo.mau_mss.designpatterns.DesignPatterns"  name="DesignPatterns" />
+  <update check="always"/>
+</jnlp>
