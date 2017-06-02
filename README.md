@@ -23,7 +23,7 @@ Select the options:
 - Pattern - the desire pattern
 
 ## Credits
-Mauricio Soares da Silva - [maumss.git@gmail.com](mailto:maumss.git@gmail.com).
+[Mauricio Soares da Silva](mailto:maumss.git@gmail.com).
 
 ## License
 
